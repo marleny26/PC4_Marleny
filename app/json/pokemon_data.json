@@ -1,0 +1,366 @@
+[
+  {
+    "entrenador": "Ash Ketchum",
+    "imagen": "app/img/Ash_Ketchum.png",
+    "pokemons": [
+      {
+        "nombre": "Pikachu",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+      },
+      {
+        "nombre": "Charizard",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+      },
+      {
+        "nombre": "Snorlax",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png"
+      },
+      {
+        "nombre": "Lucario",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png"
+      },
+      {
+        "nombre": "Greninja",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/658.png"
+      }
+    ]
+  },
+  {
+    "entrenador": "Misty",
+    "imagen": "app/img/Misty.png",
+    "pokemons": [
+      {
+        "nombre": "Starmie",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png"
+      },
+      {
+        "nombre": "Psyduck",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png"
+      },
+      {
+        "nombre": "Goldeen",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png"
+      },
+      {
+        "nombre": "Corsola",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/222.png"
+      },
+      {
+        "nombre": "Azumarill",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/184.png"
+      }
+    ]
+  },
+  {
+    "entrenador": "Brock",
+    "imagen": "app/img/Brock.png",
+    "pokemons": [
+      {
+        "nombre": "Onix",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png"
+      },
+      {
+        "nombre": "Geodude",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png"
+      },
+      {
+        "nombre": "Croagunk",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/453.png"
+      },
+      {
+        "nombre": "Steelix",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/208.png"
+      },
+      {
+        "nombre": "Tyranitar",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/248.png"
+      }
+    ]
+  },
+  {
+    "entrenador": "Cynthia",
+    "imagen": "app/img/Cynthia.webp",
+    "pokemons": [
+      {
+        "nombre": "Garchomp",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/445.png"
+      },
+      {
+        "nombre": "Lucario",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png"
+      },
+      {
+        "nombre": "Spiritomb",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/442.png"
+      },
+      {
+        "nombre": "Roserade",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/407.png"
+      },
+      {
+        "nombre": "Milotic",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/350.png"
+      }
+    ]
+  },
+  {
+    "entrenador": "Gary Oak",
+    "imagen": "app/img/Gary Oak.png",
+    "pokemons": [
+      {
+        "nombre": "Blastoise",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png"
+      },
+      {
+        "nombre": "Arcanine",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png"
+      },
+      {
+        "nombre": "Umbreon",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/197.png"
+      },
+      {
+        "nombre": "Electivire",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/466.png"
+      },
+      {
+        "nombre": "Nidoking",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png"
+      }
+    ]
+  },
+  {
+    "entrenador": "Serena",
+    "imagen": "app/img/Serena.png",
+    "pokemons": [
+      {
+        "nombre": "Braixen",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/654.png"
+      },
+      {
+        "nombre": "Sylveon",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/700.png"
+      },
+      {
+        "nombre": "Pancham",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/674.png"
+      },
+      {
+        "nombre": "Delphox",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/655.png"
+      },
+      {
+        "nombre": "Eevee",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
+      }
+    ]
+  },
+  {
+    "entrenador": "Nessa",
+    "imagen": "app/img/Nessa.webp",
+    "pokemons": [
+      {
+        "nombre": "Drednaw",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/834.png"
+      },
+      {
+        "nombre": "Golisopod",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/768.png"
+      },
+      {
+        "nombre": "Barraskewda",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/847.png"
+      },
+      {
+        "nombre": "Pelipper",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/279.png"
+      },
+      {
+        "nombre": "Arrokuda",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/846.png"
+      }
+    ]
+  },
+  {
+    "entrenador": "Lance",
+    "imagen": "app/img/Lance.png",
+    "pokemons": [
+      {
+        "nombre": "Dragonite",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png"
+      },
+      {
+        "nombre": "Aerodactyl",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png"
+      },
+      {
+        "nombre": "Gyarados",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png"
+      },
+      {
+        "nombre": "Charizard",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+      },
+      {
+        "nombre": "Salamence",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/373.png"
+      }
+    ]
+  },
+  {
+    "entrenador": "May",
+    "imagen": "app/img/May.png",
+    "pokemons": [
+      {
+        "nombre": "Blaziken",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/257.png"
+      },
+      {
+        "nombre": "Beautifly",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/267.png"
+      },
+      {
+        "nombre": "Skitty",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/300.png"
+      },
+      {
+        "nombre": "Munchlax",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/446.png"
+      },
+      {
+        "nombre": "Glaceon",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/471.png"
+      }
+    ]
+  },
+  {
+    "entrenador": "Paul",
+    "imagen": "app/img/Paul.png",
+    "pokemons": [
+      {
+        "nombre": "Torterra",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/389.png"
+      },
+      {
+        "nombre": "Electivire",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/466.png"
+      },
+      {
+        "nombre": "Honchkrow",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/430.png"
+      },
+      {
+        "nombre": "Ursaring",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/217.png"
+      },
+      {
+        "nombre": "Weavile",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/461.png"
+      }
+    ]
+  },
+  {
+    "entrenador": "Iris",
+    "imagen": "app/img/Iris.png",
+    "pokemons": [
+      {
+        "nombre": "Axew",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/610.png"
+      },
+      {
+        "nombre": "Excadrill",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/530.png"
+      },
+      {
+        "nombre": "Dragonite",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png"
+      },
+      {
+        "nombre": "Emolga",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/587.png"
+      },
+      {
+        "nombre": "Gible",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/443.png"
+      }
+    ]
+  },
+  {
+    "entrenador": "Gladion",
+    "imagen": "app/img/Gladio.png",
+    "pokemons": [
+      {
+        "nombre": "Silvally",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/773.png"
+      },
+      {
+        "nombre": "Lycanroc",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/745.png"
+      },
+      {
+        "nombre": "Crobat",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/169.png"
+      },
+      {
+        "nombre": "Umbreon",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/197.png"
+      },
+      {
+        "nombre": "Zoroark",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/571.png"
+      }
+    ]
+  },
+  {
+    "entrenador": "Lillie",
+    "imagen": "app/img/Lylia.png",
+    "pokemons": [
+      {
+        "nombre": "Lycanroc",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/745.png"
+      },
+      {
+        "nombre": "Clefairy",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png"
+      },
+      {
+        "nombre": "Ribombee",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/743.png"
+      },
+      {
+        "nombre": "Snowy Castform",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/351.png"
+      },
+      {
+        "nombre": "Magearna",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/801.png"
+      }
+    ]
+  },
+  {
+    "entrenador": "Profesor Oak",
+    "imagen": "app/img/Profesor Oak.png",
+    "pokemons": [
+      {
+        "nombre": "Tauros",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png"
+      },
+      {
+        "nombre": "Exeggutor",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png"
+      },
+      {
+        "nombre": "Nidoking",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png"
+      },
+      {
+        "nombre": "Arcanine",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png"
+      },
+      {
+        "nombre": "Gyarados",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png"
+      }
+    ]
+  }
+]
